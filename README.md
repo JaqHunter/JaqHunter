@@ -1,16 +1,27 @@
-## Hi there 👋
+👨‍💻 Sobre mí
 
-<!--
-**JaqHunter/JaqHunter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Con más de 21 años de experiencia profesional, me especializo en transformar la lógica de negocios en soluciones de software eficientes y escalables. He liderado el desarrollo de sistemas de misión crítica para grandes cadenas comerciales, automatizando procesos contables, de inventario y facturación.
 
-Here are some ideas to get you started:
+🏢 Actualmente: Jefe de POS y Analista Programador (Tiendas Macuto) y Consultor Freelance.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+⚙️ Especialidad: Desarrollo Backend, Automatización de Escritorio (Visual Studio), Aplicaciones Móviles Nativas (Android/PDA) y Gestión Avanzada ERP (SAP ABAP).
+
+🔗 Integraciones recientes: APIs de pasarelas de pago (Megasoft), financiamiento (Cashea), delivery (Yummy) y facturación electrónica (The Factory HKA).
+
+🎓 Docencia: 6 años de experiencia formando talento de ingeniería (Estructura de Datos, IA, Algoritmos).
+
+📍 Ubicación: Maracay, Aragua, Venezuela.
+
+🛠️ Stack Tecnológico
+
+Desarrollo de Software & Movilidad
+
+
+
+
+Bases de Datos & ERP
+
+
+
+
+📊 Estadísticas de GitHub
